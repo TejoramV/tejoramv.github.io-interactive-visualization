@@ -1,0 +1,40 @@
+{
+   "name": "furniture",
+   "children": [
+      {
+         "name": "chair",
+         "category": "person",
+         "value": 5
+      },
+      {
+         "name": "table",
+         "category": "person",
+         "value": 4
+      }
+   ],
+   "name": "person",
+   "children": [
+      {
+         "name": "woman",
+         "category": "person",
+         "value": 3
+      },
+      {
+         "name": "man",
+         "category": "person",
+         "value": 2
+      },
+      {
+         "name": "child",
+         "value": 9
+      }
+   ],
+   "name": "thing",
+   "children": [
+      {
+         "name": "tree",
+         "category": "thing",
+         "value": 5
+      }
+   ]
+}
